@@ -16,7 +16,7 @@ De forma complementaría mi solución debería integrarse con la REST API de AEM
 
 <h1>Diagrama</h1>
 
-![alt text](https://raw.githubusercontent.com/AedonStorm/AppIntegracion-ContaminacionTrafico/master/GitImage/Diagrama_sin_título.jpg)
+![alt text](https://github.com/AedonStorm/AppIntegracion-ContaminacionTrafico/blob/master/GitImages/Diagrama%20sin%20t%C3%ADtulo.png)
  
 <h1>Solución</h1>
 
@@ -47,5 +47,5 @@ Cuando llegan los mensajes canónicos, este construye los objetos según el tipo
 
 <h1>Resultado</h1>
 
-![alt text](https://raw.githubusercontent.com/AedonStorm/AppIntegracion-ContaminacionTrafico/master/GitImage/contaminacion.jpg)
+![alt text](https://github.com/AedonStorm/AppIntegracion-ContaminacionTrafico/blob/master/GitImages/contaminacion.JPG)
 
